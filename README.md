@@ -106,7 +106,7 @@ void client(int wfd, int rfd) {
 
 
 ## OUTPUT
-<img width="653" height="604" alt="Screenshot 2025-10-15 112051" src="https://github.com/user-attachments/assets/f3f1942a-ef1e-4609-a61e-147e5dc4ea58" />
+<img width="671" height="567" alt="Screenshot 2025-10-15 113102" src="https://github.com/user-attachments/assets/e5768370-c2f8-494c-a6f8-887fa9d540b0" />
 
 
 
@@ -129,7 +129,8 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT
 
-<img width="781" height="525" alt="Screenshot 2025-10-15 112059" src="https://github.com/user-attachments/assets/df7d7f10-c244-444d-8010-6529ebb99042" />
+<img width="560" height="301" alt="Screenshot 2025-10-15 113206" src="https://github.com/user-attachments/assets/af3b4186-8b65-478b-8dbc-73c9ce397ead" />
+
 
 
 
